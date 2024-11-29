@@ -1,6 +1,6 @@
 # edgetunnel
 
-Telegram交流群：[@CMLiussss](https://t.me/kkouokk)
+Telegram交流群：[@kkouokk](https://t.me/kkouokk)
 
 # 免责声明
 
